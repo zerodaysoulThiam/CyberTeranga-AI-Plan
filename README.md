@@ -116,7 +116,7 @@ graph TB
         D --> G[🧠 Transformer Models]
         D --> H[📈 Anomaly Detection]
         E --> I[🔁 Automated Playbooks]
-        F --> J[(TimescaleDB + Vector DB)]
+        F --> J[TimescaleDB + Vector DB]
     end
     
     subgraph Experience Layer
@@ -126,18 +126,3 @@ graph TB
         I --> K
         G --> L
     end
-    
-    style A fill:#0f172a,stroke:#38bdf8,stroke-width:2px
-    style C fill:#1e1b4b,stroke:#a78bfa,stroke-width:2px
-    style D fill:#1e1b4b,stroke:#f97316,stroke-width:2px
-    style K fill:#0f172a,stroke:#2dd4bf,stroke-width:2px
-
-
-📞 Contact & Social
-🌐 Website: cyberteranga.ai
-
-🐦 Twitter/X: @CyberTeranga
-
-📧 Email: hello@cyberteranga.ai
-
-🔗 LinkedIn: CyberTéranga AI
