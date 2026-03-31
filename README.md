@@ -4,7 +4,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="120" alt="CyberTéranga Logo">
   </picture>
   
-  # ✨ CyberTéranga AI
+  #  CyberTéranga AI
   
   ### *Trusted AI for Digital Security & Citizen Protection*
   
@@ -22,14 +22,14 @@
   </p>
   
   <p>
-    <b>🤖 Ethical AI | 🛡️ Cyber Resilience | 📡 Zero-Trust IoT | 🧠 Explainable Decisions</b>
+    <b> Ethical AI |  Cyber Resilience |  Zero-Trust IoT |  Explainable Decisions</b>
   </p>
   
   <br>
   
-  [![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-cyberteranga.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=white)](https://demo.cyberteranga.ai)
-  [![Documentation](https://img.shields.io/badge/📚_DOCS-Wiki-FFB74D?style=for-the-badge&logo=gitbook&logoColor=white)](https://docs.cyberteranga.ai)
-  [![Join Community](https://img.shields.io/badge/💬_Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cyberteranga)
+  [![Live Demo](https://img.shields.io/badge/_LIVE_DEMO-cyberteranga.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=white)](https://demo.cyberteranga.ai)
+  [![Documentation](https://img.shields.io/badge/_DOCS-Wiki-FFB74D?style=for-the-badge&logo=gitbook&logoColor=white)](https://docs.cyberteranga.ai)
+  [![Join Community](https://img.shields.io/badge/_Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cyberteranga)
   
   <br>
   <img src="https://raw.githubusercontent.com/your-username/cyberteranga-ai/main/assets/demo_animation.gif" width="800" style="border-radius: 24px; box-shadow: 0 25px 50px -12px rgba(0,255,200,0.3);" alt="CyberTéranga Dashboard Demo">
@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 The Future of Digital Trust, Today
+##  The Future of Digital Trust, Today
 
 > **CyberTéranga AI** is an intelligent, self-learning cybersecurity ecosystem that blends **Generative AI**, **Real-time IoT Telemetry**, and **Human-centric Explainability**. Built for governments, enterprises, and citizens — we turn digital chaos into orchestrated resilience.
 
@@ -45,53 +45,53 @@
 
 ---
 
-## 🔥 Why CyberTéranga?
+##  Why CyberTéranga?
 
 | Challenge | Our Solution |
 |----------|--------------|
-| 📰 **Deepfakes & Misinformation** | Multimodal AI detector (visual + audio + linguistic) with 98.7% accuracy |
-| 🔓 **IoT Botnet Attacks** | Lightweight behavioral fingerprinting + edge-based anomaly detection |
-| 🧠 **Black-box AI** | Full LIME/SHAP explainability, decision traces, and fairness audits |
-| ⚡ **Slow Threat Response** | Autonomous SOAR playbooks & predictive threat intelligence |
-| 🔐 **Privacy Gaps** | Homomorphic encryption for sensitive queries & GDPR/NDPR compliance |
+|  **Deepfakes & Misinformation** | Multimodal AI detector (visual + audio + linguistic) with 98.7% accuracy |
+|  **IoT Botnet Attacks** | Lightweight behavioral fingerprinting + edge-based anomaly detection |
+|  **Black-box AI** | Full LIME/SHAP explainability, decision traces, and fairness audits |
+|  **Slow Threat Response** | Autonomous SOAR playbooks & predictive threat intelligence |
+|  **Privacy Gaps** | Homomorphic encryption for sensitive queries & GDPR/NDPR compliance |
 
 ---
 
-## ✨ Key Capabilities
+##  Key Capabilities
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
         <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="64"><br>
-        <b>🕵️ Neural Trust Engine</b><br>
+        <b> Neural Trust Engine</b><br>
         <sub>NLP + Vision + Graph NN for deepfake, phishing & hate speech detection</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="64"><br>
-        <b>📡 IoT Sentinel</b><br>
+        <b> IoT Sentinel</b><br>
         <sub>Real-time device profiling, rogue device isolation, firmware integrity</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="64"><br>
-        <b>🧾 XAI Cockpit</b><br>
+        <b> XAI Cockpit</b><br>
         <sub>Interactive dashboards with plain‑English explanations & risk heatmaps</sub>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/5689/5689681.png" width="64"><br>
-        <b>⚡ Autonomous Response</b><br>
+        <b> Autonomous Response</b><br>
         <sub>AI-driven quarantine, patch suggestions, and real-time block rules</sub>
       </td>
       <td align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="64"><br>
-        <b>🔗 Cyber Risk Score</b><br>
+        <b> Cyber Risk Score</b><br>
         <sub>Dynamic scoring for users, devices, and digital assets (0–1000)</sub>
       </td>
       <td align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/6125/6125915.png" width="64"><br>
-        <b>🌍 Federated Learning</b><br>
+        <b> Federated Learning</b><br>
         <sub>Privacy-preserving cross‑institution model training</sub>
       </td>
     </tr>
@@ -100,28 +100,28 @@
 
 ---
 
-## 🧬 System Architecture (Zero‑Trust Ready)
+## System Architecture (Zero‑Trust Ready)
 
 ```mermaid
 graph TB
     subgraph Edge/IoT
-        A[ESP32 / Raspberry Pi Sensors] --> B{🔐 IoT Gateway}
+        A[ESP32 / Raspberry Pi Sensors] --> B{ IoT Gateway}
     end
     
     subgraph Core Platform
-        B --> C[🛡️ CyberTéranga API Gateway]
-        C --> D[🤖 AI Inference Engine]
-        C --> E[⚙️ Orchestrator & SOAR]
-        C --> F[📊 Real‑time Data Lake]
-        D --> G[🧠 Transformer Models]
-        D --> H[📈 Anomaly Detection]
-        E --> I[🔁 Automated Playbooks]
+        B --> C[ CyberTéranga API Gateway]
+        C --> D[ AI Inference Engine]
+        C --> E[ Orchestrator & SOAR]
+        C --> F[ Real‑time Data Lake]
+        D --> G[ Transformer Models]
+        D --> H[ Anomaly Detection]
+        E --> I[ Automated Playbooks]
         F --> J[TimescaleDB + Vector DB]
     end
     subgraph Experience Layer
-        J --> K[📱 React Dashboard]
-        K --> L[🧾 XAI Widgets]
-        K --> M[📟 Mobile Alerts]
+        J --> K[ React Dashboard]
+        K --> L[ XAI Widgets]
+        K --> M[ Mobile Alerts]
         I --> K
         G --> L
     end
