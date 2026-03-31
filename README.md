@@ -66,28 +66,6 @@ A **multi-layer platform** that provides:
 - 🔐 Secure environment  
 
 ---
-
-## 🏗️ Architecture  
-
-```mermaid
-graph TD
-
-User --> UI[Frontend Dashboard]
-UI --> API[Backend API]
-
-API --> AI[AI Engine]
-API --> IoT[IoT Monitoring System]
-API --> SEC[Security Layer]
-
-AI --> NLP[Fake News Detection]
-AI --> XAI[Explainable AI]
-
-IoT --> DEV[Connected Devices]
-IoT --> ALERT[Alert System]
-
-SEC --> ENC[Encryption]
-SEC --> AUTH[Authentication]
-
 ✨ Features
 🚨 Real-time threat detection
 📊 Trust Score System
