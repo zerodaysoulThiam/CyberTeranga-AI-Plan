@@ -96,3 +96,51 @@ F --> F1[Encryption]
 F --> F2[Authentication]
 F --> F3[Access Control]
 E1 --> G[📟 IoT Devices]
+⚙️ TECHNOLOGY STACK
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-3.0%2B-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2.0%2B-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-API-green?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/> </p>
+✨ KEY FEATURES
+🚨 Real-time threat detection
+📊 AI Trust Scoring System
+📡 IoT Monitoring Dashboard
+🧠 Explainable AI Interface
+🔐 Data Encryption & Protection
+📊 USE CASES
+🏠 Smart Homes
+🏥 Healthcare IoT
+🎓 Education & e-learning
+🌐 Social Media Protection
+🌍 GLOBAL IMPACT
+🔻 Reduce misinformation & fake content
+🔐 Protect citizens’ IoT devices
+📊 Increase trust in AI systems
+🌎 Promote safe digital environments worldwide
+🚀 GETTING STARTED
+git clone https://github.com/your-username/cyberteranga-ai.git
+cd cyberteranga-ai
+npm install
+npm start
+📁 PROJECT STRUCTURE
+cyberteranga-ai/
+│── frontend/
+│── backend/
+│── ai-models/
+│── iot/
+│── assets/
+│── docs/
+👨‍💻 AUTHOR
+
+Mouhamadou Mokhtar Thiam
+🎓 IoT & Cybersecurity Engineer
+🌍 Senegal
+
+⭐ SUPPORT
+
+If you like this project:
+
+⭐ Star it
+🔁 Share it
+🤝 Contribute
+
+🔥 FINAL VISION
+
+CyberTéranga AI is not just a project — it’s the future of trusted digital security, combining AI, IoT, and cybersecurity for citizen protection.
