@@ -126,28 +126,3 @@ graph TB
         G --> L
     end
 
-📞 Contact & Social
-🌐 Website: cyberteranga.ai
-
-🐦 Twitter/X: @CyberTeranga
-
-📧 Email: hello@cyberteranga.ai
-
-🔗 LinkedIn: CyberTéranga AI
-
-<div align="center"> <i>“Security is not a product, but a continuous process of trust — powered by AI that respects humanity.”</i> <br><br> <img src="https://api.star-history.com/svg?repos=your-username/cyberteranga-ai&type=Date" width="500"> <br> <p>⭐ If CyberTéranga AI helps you protect digital spaces, star the repo and spread the word! ⭐</p> <br> <sub>Built with 🧠 & 🧡 in Dakar, Senegal — for the world.</sub> </div> ```
-Key fixes made:
-
-Closed the Mermaid diagram properly with triple backticks
-
-Removed the inline styles from inside the Mermaid code block (Mermaid doesn't parse CSS)
-
-Simplified the node labels by removing parentheses from J[(TimescaleDB + Vector DB)] → J[TimescaleDB + Vector DB]
-
-Fixed the table formatting in the Key Capabilities section
-
-Ensured all sections are properly separated with clear markdown formatting
-
-The Mermaid diagram should now render correctly on GitHub without any lexical errors!
-
-This response is AI-generated, for reference only.
